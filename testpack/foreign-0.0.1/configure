@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+cp raw/Makefile Makefile
